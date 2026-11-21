@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rNx1337k/Torqis-download/releases/latest"><img src="https://img.shields.io/github/v/release/rNx1337k/Torqis-download?label=vers%C3%A3o&color=3D7BFF&style=flat-square" alt="Versão"></a>
+  <a href="https://github.com/rNx1337k/TorqisDiagnostics/releases/latest"><img src="https://img.shields.io/github/v/release/rNx1337k/TorqisDiagnostics?label=vers%C3%A3o&color=3D7BFF&style=flat-square" alt="Versão"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0E1526?style=flat-square&logo=windows" alt="Windows 10 | 11">
   <img src="https://img.shields.io/badge/estado-beta-E8343A?style=flat-square" alt="Estado: beta">
   <a href="https://www.instagram.com/torqis.pt/"><img src="https://img.shields.io/badge/Instagram-@torqis.pt-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram @torqis.pt"></a>
@@ -18,14 +18,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rNx1337k/Torqis-download/releases/latest"><img src="https://img.shields.io/badge/Descarregar_para_Windows-2F5BFF?style=for-the-badge&logo=windows&logoColor=white" alt="Descarregar para Windows"></a>
+  <a href="https://github.com/rNx1337k/TorqisDiagnostics/releases/latest"><img src="https://img.shields.io/badge/Descarregar_para_Windows-2F5BFF?style=for-the-badge&logo=windows&logoColor=white" alt="Descarregar para Windows"></a>
 </p>
 
 ---
 
 ## Descarregar
 
-Na página da [última versão](https://github.com/rNx1337k/Torqis-download/releases/latest), em **Assets**:
+Na página da [última versão](https://github.com/rNx1337k/TorqisDiagnostics/releases/latest), em **Assets**:
 
 - **`Setup_Torqis_<versão>.exe`** — instala o programa, com atalhos no menu Iniciar e no ambiente de trabalho
   (recomendado)
