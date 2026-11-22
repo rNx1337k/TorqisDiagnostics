@@ -42,7 +42,7 @@ Depois de instalado, o Torqis **actualiza-se sozinho**: só são instaladas vers
 
 ## O que faz
 
-- **Auto-Scan com mapa do veículo** — lê todos os controladores e mostra no carro onde estão as avarias
+- **Auto-Scan** — lê todos os controladores e mostra as avarias de cada um, com a mais grave em destaque
 - **Assistente de diagnóstico** — gravidade, causas prováveis e o que verificar em cada avaria
 - **Valores em tempo real** em mostradores e gráficos
 - **Funções de oficina** — ajustes básicos, adaptação, codificação, login, teste de saídas e reposição do indicador

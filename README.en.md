@@ -40,7 +40,7 @@ Once installed, Torqis **keeps itself up to date**: only versions signed by the 
 
 ## What it does
 
-- **Auto-Scan with a vehicle map** — reads every module and shows on the car where the faults are
+- **Auto-Scan** — reads every module and shows the faults of each one, with the most severe highlighted
 - **Diagnostic assistant** — severity, likely causes and what to check for each fault
 - **Live data** on gauges and charts
 - **Workshop functions** — basic settings, adaptation, coding, login, output tests and service reminder reset, with
